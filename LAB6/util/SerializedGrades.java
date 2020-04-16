@@ -1,9 +1,8 @@
-/* Pooja Pathak 
+/* 
  * CIS 35A Java Programming - Online Section
  * Lab 6 
  * Due date : Saturday, 8th December, 2018
- * Date submitted : Monday, 10th December, 2018 (with granted extension)
- * Prints student information.
+ * 
  */
 package util;
 
